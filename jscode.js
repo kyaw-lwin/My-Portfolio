@@ -1,6 +1,6 @@
 //intro text
 var i = 0;
-var txt = "Hello, My name is Kyaw. I'm from Sheffield, UK. I just love building websites. I was an engineer who worked in semi-conductor manufacturing industries for 15 years. I realised that I am really passionate about web development when I started learning to become a web developer."
+var txt = "Hello, My name is Kyaw. I'm from Sheffield, UK. I used to work in semi-conductor manufacturing industries as an engineer for 15 years.I started to learn coding in 2022 and I am enjoying it since then. It make me happy when I see the websites that I have built."
 var speed = 50;
 
 function typeWriter() {
