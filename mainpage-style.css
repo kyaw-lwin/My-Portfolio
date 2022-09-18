@@ -1,7 +1,19 @@
 body {
     font-family: Kanit, Arial;
-    background-image: url(background-img.jpg);
+    background-color: #363636;
+    
+}
 
+.myPhoto {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.info-link {
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
 }
 
 /*--logo--*/
@@ -26,6 +38,7 @@ body {
     90% { transform: translate(1px, 2px) rotate(0deg); }
     100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
+
 
 /*--intro text--*/
 #intro {
