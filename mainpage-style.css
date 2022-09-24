@@ -9,11 +9,15 @@ body {
     border-radius: 50%;
 }
 
-.info-link {
-    text-decoration: none;
+.greeting {
     color: white;
-    font-size: 50px;
+    font-size: 55px;
 }
+ 
+.greeting:hover:after {
+    content: 'Nice to meet you!';
+}
+
 
 /*--logo--*/
 #logo {
